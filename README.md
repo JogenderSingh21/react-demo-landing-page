@@ -19,11 +19,11 @@ This is a simple React application for user registration and success message dis
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/react-registration-app.git
+   git clone https://github.com/JogenderSingh21/thence-assignment.git
    
 2. Navigate into the project directory:
    ```bash
-   cd react-registration-app
+   cd thence-assignment
    
 3. Install the necessary dependencies using npm:
    ```bash
